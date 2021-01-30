@@ -16,7 +16,9 @@ Named Entity Recognition: linking of named entities using [ALP](http://arabicnlp
 * المملكة_العربية_السعودية : المملكة العربية السعودية
 
 # Pre-Trained Word Vectors
-| Link |
+
+| | Link | 
+|---|---|
 | Word2Vev|[Dawnload]() |
 | FastText|[Dawnload]() |
 | Glove|[Dawnload]() |
