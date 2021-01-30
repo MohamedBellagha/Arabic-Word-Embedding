@@ -5,7 +5,9 @@ We compiled a large Arabic corpus from various sources to learn word representat
 * Word2vec: Efficient Estimation of Word Representations in Vector Space (2013), T. Mikolov et al. [[pdf]](https://arxiv.org/pdf/1301.3781.pdf)
 * GloVe: GloVe: Global Vectors for Word Representation (2014), J. Pennington et al. [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
 * FastText: Enriching Word Vectors with Subword Information (2016), P. Bojanowski et al. [[pdf]](https://arxiv.org/pdf/1607.04606v1.pdf)
+
 # Set of Arabi text collections
+We build a corpus from a set of publicly available text collections. Text contents are mainly news articles based on a local Arabic newspaper and Arabic news broadcast, which include a mixture of different spoken Arabic.
 
 # Preprocessing steps
 Named Entity Recognition: linking of named entities using [ALP](http://arabicnlp.pro/arabic-nlp-tool/)
