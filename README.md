@@ -23,6 +23,6 @@ Named Entity Recognition: linking of named entities using [ALP](http://arabicnlp
 
 | | Link | 
 |---|---|
-| Word2Vev|[Dawnload]() |
-| FastText|[Dawnload]() |
-| Glove|[Dawnload]() |
+| Word2Vev|[Dawnload](https://mega.nz/folder/R6xQgQqC#4wR_LIlXx14jRfrroFsDNA) |
+| FastText|[Dawnload](https://mega.nz/folder/d3hUnQLJ#C0WsvwQ5VgN3VV9V7KWsGA) |
+| Glove|[Dawnload](https://mega.nz/folder/wr4UjAwI#e643g99PMsVhYAQ07OMwZQ) |
